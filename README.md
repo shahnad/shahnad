@@ -18,4 +18,4 @@ I’m a React developer with over 6 years of experience. I specialize in creatin
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnad&" alt="shahnad" /></p>
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
