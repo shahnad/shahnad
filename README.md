@@ -226,12 +226,14 @@ College of Engineering, Attingal (IHRD) — Cochin University of Science and Tec
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shahnad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+[![Followers](https://img.shields.io/github/followers/shahnad?style=for-the-badge&logo=github&color=1d4ed8&labelColor=0f172a)](https://github.com/shahnad?tab=followers)
+[![Member since](https://img.shields.io/badge/GitHub-@shahnad-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahnad)
 
 <img src="https://streak-stats.demolab.com?user=shahnad&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahnad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahnad&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="95%"/>
+
+<img src="https://ghchart.rshah.org/1d4ed8/shahnad" alt="Contribution chart" width="95%"/>
 
 </div>
 
